@@ -1,6 +1,10 @@
 .env
 
+/node_modules
+
 
 /* api key*/
 equipment-service.json
 repair-service-key.json
+
+/build
